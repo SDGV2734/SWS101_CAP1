@@ -92,7 +92,7 @@ From here I found that apache is supported by php with i tried to get the inform
 
 ![Alt text](img/http/php_info.png)
 
-Than I found out that i php was supported by CGI.
+Than  I found out that i php was supported by CGI.
 
 ![Alt text](img/http/step3.png)
 
