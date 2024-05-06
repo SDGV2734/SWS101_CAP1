@@ -95,6 +95,7 @@ From here I found that apache is supported by php with i tried to get the inform
 Than I found out that i php was supported by CGI.
 
 ![Alt text](img/http/step3.png)
+
 ![Alt text](img/http/step6.png)
 
 After opening metasploit I searched for php_cgi and used it. After that i changed the changed the default setup to the required setup.
